@@ -1,0 +1,33 @@
+.Bdy3{
+    
+    background: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/hEaS0zg/videoblocks-hand-typing-keyboard-laptop-computer-4k-slow-motion-business-man-typing-on-laptop-keyboard_samvubycx_thumbnail-1080_01.png');
+    object-fit: cover;
+    background-size: cover;
+    text-align: left;
+    color: white;
+    /* background-image: linear-gradient(to right, rgba(51, 122, 183, 1),rgba(51, 122, 183, 0)); */
+}
+
+.back-grad{
+    background-image: linear-gradient(to right, rgb(14, 60, 112),rgb(14, 60, 112)15%,rgba(14, 60, 112, 0.3));
+}
+
+.Bdy3-txt-bullets{
+    font-weight: 400;
+    margin: 0;
+}
+
+.Bdy3-txt-symbols{
+    color: rgb(0, 170, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600
+}
+
+.heading-bdy3{
+    font-size: 35px;
+}
+
+.content-bdy3{
+    /* font-size: 25px; */
+    font-weight: 300;
+}

@@ -1,0 +1,73 @@
+.footer-left{
+    background: rgb(241, 240, 240);
+    line-height: 7vh;
+}
+.footer-left-tagline{
+    padding-top: 2vh;
+    font-size: 25px;
+    font-weight: 300;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.footer-left-table{
+    margin-top: 5vh;
+    text-align: left;
+}
+.footer-left-table span{
+    color: #f23849;
+    font-weight: bold;
+}
+.footer-left-table .e-mail{
+    color: black;
+    cursor: pointer;
+}
+
+.e-mail:hover{
+    color: #f23849;
+}
+
+.icon-container .icon{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    padding:30px;
+}
+
+.icon-container .icon:hover{
+    color: rgb(0, 89, 190);
+}
+
+.footer-right{
+    background: url('https://www.meraportfolio.com/images/tool-bg.jpg');
+    background-attachment: fixed;
+}
+
+.footer-right-container{
+    background: rgb(241, 240, 240);
+    border-radius: 20px;
+    
+}
+
+.footer-right-container form{
+    border: 5px solid rgb(242, 56, 73);
+    border-radius: 20px;
+}
+
+.footer-right-container form .form-group{
+    padding-top: 4vh;
+    /* padd */
+}
+
+.btn-danger{
+    margin-top: 2vh;
+}
+
+.end{
+    background: black;
+    color: white;
+    height: 10vh;
+    vertical-align: middle;
+}
+
+.end .text-light{
+    text-decoration: none;
+}

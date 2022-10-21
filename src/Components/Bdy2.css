@@ -1,0 +1,27 @@
+.Bdy2{
+    background: url('https://www.meraportfolio.com/images/section4.jpg');
+    background-attachment: fixed;
+}
+
+.highlight{
+    font-size: 60px;
+    font-weight: 300;
+    color: #f23849;
+}
+
+.highlight2{
+    font-size: 30px;
+    font-weight: 300;
+    color: rgb(94, 94, 94);
+}
+
+.img-hov:hover{
+    transform: translateY(-20%) scale(1.2,1.2);
+    transition: all 2s;
+}
+
+.img-hov-txt{
+    color: black;
+    font-weight: 200;
+    font-size: 20px;
+}

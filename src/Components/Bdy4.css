@@ -1,0 +1,38 @@
+.Bdy4-head{
+    font-size: 2.5rem;
+}
+
+.Bdy4-img{
+    height: 75%;
+    padding-bottom: 0;
+}
+
+.Bd4-content{
+    padding: 10vh 0;
+    padding-bottom: 0;
+    align-items: center;
+}
+
+.Bd4-content-tab{
+    display: inline-block;
+    padding: auto;
+    height: 30vh;
+    font-size: 16px;
+    font-weight: 100;
+    text-align: left;
+    vertical-align: middle;
+    /* padding-left: 1vw;/ */
+    padding-bottom: 0;
+    width: 80%;
+}
+.Bd4-content-icon{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 10px;
+}
+
+.Bd4-content-tab-heading{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #f23849;
+}
