@@ -24,7 +24,7 @@ function StockPlot(props) {
   
   const [stockChartXValues, setStockChartXValues] = useState([])
   const [stockChartYValues, setStockChartYValues] = useState([])
-  const [stockData, setStockData] = useState({})
+  // const [stockData, setStockData] = useState({})
   const [company, setCompany] = useState(options[0])
   const [isLoading, setLoading] = useState(false)
 
@@ -49,7 +49,7 @@ function StockPlot(props) {
       }
       setStockChartXValues(stockChartXValuesData)
       setStockChartYValues(stockChartYValuesData)
-      setStockData(data)
+      // setStockData(data)
     }).catch((err) => {
       console.log(err)
     })
@@ -76,9 +76,6 @@ function StockPlot(props) {
   
   const result = (
     <div>
-      <div>
-        <h1>Stock Market</h1>
-      </div>
       <div>
         <Select
           name={company.name}

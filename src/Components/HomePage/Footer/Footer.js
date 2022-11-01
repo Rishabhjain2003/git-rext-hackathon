@@ -17,11 +17,11 @@ function Footer(){
                         </div>
                         <div className='icon-container'>
                             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-                            <a href="#" className='icon'><i class="fab fa-facebook"></i></a>
-                            <a href="#" className='icon'><i class="fab fa-instagram"></i></a>
-                            <a href="#" className='icon'><i class="fab fa-linkedin"></i></a>
-                            <a href="#" className='icon'><i class="fab fa-twitter"></i></a>
-                            <a href="#" className='icon'><i class="fab fa-youtube"></i></a>
+                            <a href="." className='icon'><i class="fab fa-facebook"></i></a>
+                            <a href="." className='icon'><i class="fab fa-instagram"></i></a>
+                            <a href="." className='icon'><i class="fab fa-linkedin"></i></a>
+                            <a href="." className='icon'><i class="fab fa-twitter"></i></a>
+                            <a href="." className='icon'><i class="fab fa-youtube"></i></a>
                         </div>
                     </div>
                 </div>
@@ -47,12 +47,7 @@ function Footer(){
                     </div>
                 </div>
             </div>
-            <div className="bg-light text-center ending">
-                <div className="text-center p-3 end">
-                    © 2020 Copyright :
-                    <a className="text-light" href="#"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br/> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</a>
-                </div>
-            </div>
+            
         </div>
     )
 }

@@ -20,11 +20,11 @@ function Bdy1 () {
                 <div className="body-bar">
                     <nav>
                         <ul>
-                            <li><a onClick={() =>idx(0)}>Help me decide the right funds</a></li>
-                            <li><a onClick={() =>idx(1)}>Invest to earn high returns</a></li>
-                            <li><a onClick={() =>idx(2)}>Looking Alternatives to bank deposits</a></li>
-                            <li><a onClick={() =>idx(3)}>Create emergency &nbsp;&nbsp;funds now</a></li>
-                            <li><a onClick={() =>idx(4)}>Help me earn tax free income</a></li>
+                            <li><a onClick={() =>idx(0)}>Help me decide<br/>the right funds</a></li>
+                            <li><a onClick={() =>idx(1)}>Invest to earn<br/>high returns</a></li>
+                            <li><a onClick={() =>idx(2)}>Looking Alternatives<br/>to bank deposits</a></li>
+                            <li><a onClick={() =>idx(3)}>Create emergency<br/>funds now</a></li>
+                            <li><a onClick={() =>idx(4)}>Help me earn<br/>tax free income</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -40,7 +40,7 @@ function Bdy1 () {
                             <div className={selected === i ? 'number-click' : 'number'} onClick={() => toggle(i)}><h2>{1+i}</h2></div>
                             <div className="item">
                                 <div className="title" >
-                                    <h4>{item.question}</h4>
+                                    <h5>{item.question}</h5>
                                     <h4>{selected === i? '-' : '+'}</h4>
                                 </div>
                                 <div className={selected === i ? 'content-show' : 'content'}>
