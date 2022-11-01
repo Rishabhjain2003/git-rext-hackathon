@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/git-rext-hackathon/static/css/main.24541d69.css",
+    "main.js": "/git-rext-hackathon/static/js/main.8336e880.js",
+    "static/js/787.bb4a444b.chunk.js": "/git-rext-hackathon/static/js/787.bb4a444b.chunk.js",
+    "static/media/VideoBg.mp4": "/git-rext-hackathon/static/media/VideoBg.79650f7f76f4599bc066.mp4",
+    "index.html": "/git-rext-hackathon/index.html",
+    "main.24541d69.css.map": "/git-rext-hackathon/static/css/main.24541d69.css.map",
+    "main.8336e880.js.map": "/git-rext-hackathon/static/js/main.8336e880.js.map",
+    "787.bb4a444b.chunk.js.map": "/git-rext-hackathon/static/js/787.bb4a444b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24541d69.css",
+    "static/js/main.8336e880.js"
+  ]
+}
